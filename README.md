@@ -57,7 +57,7 @@ pip install -r requirements.txt
 Launch the real-time simulation and intelligence interface:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 
 ```
 
